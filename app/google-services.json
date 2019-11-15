@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371919359737",
+    "firebase_url": "https://puttyfirebase.firebaseio.com",
+    "project_id": "puttyfirebase",
+    "storage_bucket": "puttyfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371919359737:android:58ef865b765156df2a5c28",
+        "android_client_info": {
+          "package_name": "com.example.puttyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371919359737-qka7m82pjbvt6ttufnmidlpdpe9anpes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA2dV-wpK9_25M2pWrkvZKZXkxLoiXhG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371919359737-qka7m82pjbvt6ttufnmidlpdpe9anpes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
